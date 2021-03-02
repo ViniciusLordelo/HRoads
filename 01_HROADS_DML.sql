@@ -1,3 +1,6 @@
+USE SENAI_HROADS_MANHA
+
+SELECT * FROM Classes
 INSERT INTO Classes  (Nome)
 VALUES				 ('Bárbaro')
 					,('Cruzado')
@@ -34,7 +37,7 @@ VALUES							 (1, 1)
 
 UPDATE Personagens
 SET Nome = 'Fer7'
-WHERE idPersonagens = 4
+WHERE idPersonagens = 3
 
 UPDATE Classes
 SET NOME = 'Necromancer'
