@@ -1,3 +1,5 @@
+USE SENAI_HROADS_MANHA
+
 SELECT * FROM Personagens
 SELECT * FROM Classes
 SELECT Nome FROM Classes
